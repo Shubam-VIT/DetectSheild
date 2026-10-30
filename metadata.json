@@ -1,0 +1,9 @@
+{
+  "name": "DetectShieldReview - AI Threat Analyzer",
+  "description": "Comprehensive cybersecurity threat detection app analyzing malicious URLs, SMS phishing, and Android APK permissions in real-time.",
+  "requestFramePermissions": [
+    "clipboard-read",
+    "clipboard-write"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
